@@ -1,0 +1,47 @@
+#clientsPage {
+    width: 100vw;
+    max-width: 55rem;
+    margin: 5rem auto;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+#clients {
+    padding: 2rem;
+}
+
+.clientsPageTitle {
+    font-size: 4rem;
+    font-weight: 600;
+    margin-bottom: 1.5rem;
+}
+
+.clientsDesc {
+    font-weight: 300;
+    font-size: 1rem;
+    /* max-width: 50rem; */
+    margin-bottom: 4rem;
+}
+
+.clientImgs {
+    margin: 1rem 0;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.clientImg {
+    object-fit: cover;
+    width: 23%;
+    min-width: 9rem;
+    margin: auto;
+    padding: 0.25rem;
+}
+
+@media screen and (max-width: 480px) {
+    .clientsPageTitle {
+        font-size: 3.5rem;
+    }
+}

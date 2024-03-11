@@ -1,0 +1,31 @@
+.social-container {
+    padding: 25px 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+a.social {
+    margin: 0 1rem;
+    transition: transform 250ms;
+}
+
+a.social:hover {
+    transform: translateY(-2px);
+}
+
+a.linkedin {
+    color: #fff;
+}
+  
+a.github {
+    color: #fff;
+}
+  
+a.discord {
+    color: #fff;
+}
+  
+a.instagram {
+    color: #fff;
+}
