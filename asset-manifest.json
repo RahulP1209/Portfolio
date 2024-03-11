@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.be9a6d92.css",
+    "main.js": "/Portfolio/static/js/main.f9e34699.js",
+    "static/js/453.a6a97343.chunk.js": "/Portfolio/static/js/453.a6a97343.chunk.js",
+    "static/media/edusity.PNG": "/Portfolio/static/media/edusity.bbf39fdb3c004442986b.PNG",
+    "static/media/airbnb.PNG": "/Portfolio/static/media/airbnb.8545e1c873e675c3a0ab.PNG",
+    "static/media/aiml.png": "/Portfolio/static/media/aiml.c0a6502cc7d39c6eded8.png",
+    "static/media/meme.PNG": "/Portfolio/static/media/meme.5b683880268450acfff0.PNG",
+    "static/media/uiux.jpg": "/Portfolio/static/media/uiux.833f6b646c7639cf6009.jpg",
+    "static/media/Notes.PNG": "/Portfolio/static/media/Notes.d412b0ac616ebbb85032.PNG",
+    "static/media/rnd.jpg": "/Portfolio/static/media/rnd.955b163e127e6808a93a.jpg",
+    "static/media/chatgpt.PNG": "/Portfolio/static/media/chatgpt.37bbfb847471e58ac88a.PNG",
+    "static/media/Weather.PNG": "/Portfolio/static/media/Weather.1dbed4aad02465996716.PNG",
+    "static/media/curaj.gif": "/Portfolio/static/media/curaj.7e1a269414835f0cd0ce.gif",
+    "static/media/todo.PNG": "/Portfolio/static/media/todo.0f6d878e6428e1e830e0.PNG",
+    "static/media/Tenzies.PNG": "/Portfolio/static/media/Tenzies.2ae02695e90948dd438b.PNG",
+    "static/media/da.jpg": "/Portfolio/static/media/da.74b257b855795d267710.jpg",
+    "static/media/Logo2.png": "/Portfolio/static/media/Logo2.62ffe966f830c1e5516a.png",
+    "static/media/signup.PNG": "/Portfolio/static/media/signup.04ca6cee369d0f34c71a.PNG",
+    "static/media/tictactoe.PNG": "/Portfolio/static/media/tictactoe.a98253b477ea56fd03a6.PNG",
+    "static/media/card.PNG": "/Portfolio/static/media/card.f1fba3885c16cf23c644.PNG",
+    "index.html": "/Portfolio/index.html",
+    "main.be9a6d92.css.map": "/Portfolio/static/css/main.be9a6d92.css.map",
+    "main.f9e34699.js.map": "/Portfolio/static/js/main.f9e34699.js.map",
+    "453.a6a97343.chunk.js.map": "/Portfolio/static/js/453.a6a97343.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.be9a6d92.css",
+    "static/js/main.f9e34699.js"
+  ]
+}
